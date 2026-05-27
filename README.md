@@ -6,10 +6,9 @@
 
 ```
 kechuang-dailynews/
-├── SKILL.md                    # 核心技能文件（含完整SOP）
+├── SKILL.md                    # 核心技能文件（含完整SOP v1.3）
 ├── docs/
-│   ├── 信源与SOP_v2.5.md      # 完整信源清单与采集SOP
-│   └── 早报生成规范_v1.2.md   # 生成规范（精简版）
+│   └── 信源操作指南.md         # 信源清单与采集SOP（含公众号URL、S/A/B分级）
 └── README.md                   # 本文件
 ```
 
