@@ -1,0 +1,12 @@
+{
+  "name": "kechuang-dailynews-renderer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render_long_image.mjs"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "playwright-core": "^1.52.0"
+  }
+}
